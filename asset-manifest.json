@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/conweys-game/static/css/main.d81f4fe3.chunk.css",
+    "main.js": "/conweys-game/static/js/main.345daa18.chunk.js",
+    "main.js.map": "/conweys-game/static/js/main.345daa18.chunk.js.map",
+    "runtime-main.js": "/conweys-game/static/js/runtime-main.d6250b01.js",
+    "runtime-main.js.map": "/conweys-game/static/js/runtime-main.d6250b01.js.map",
+    "static/js/2.3636b42c.chunk.js": "/conweys-game/static/js/2.3636b42c.chunk.js",
+    "static/js/2.3636b42c.chunk.js.map": "/conweys-game/static/js/2.3636b42c.chunk.js.map",
+    "index.html": "/conweys-game/index.html",
+    "precache-manifest.a809cdd7436d2a42845cbe6aa6aa7813.js": "/conweys-game/precache-manifest.a809cdd7436d2a42845cbe6aa6aa7813.js",
+    "service-worker.js": "/conweys-game/service-worker.js",
+    "static/css/main.d81f4fe3.chunk.css.map": "/conweys-game/static/css/main.d81f4fe3.chunk.css.map",
+    "static/media/None Blue Ani.svg": "/conweys-game/static/media/None Blue Ani.136fc006.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6250b01.js",
+    "static/js/2.3636b42c.chunk.js",
+    "static/css/main.d81f4fe3.chunk.css",
+    "static/js/main.345daa18.chunk.js"
+  ]
+}
