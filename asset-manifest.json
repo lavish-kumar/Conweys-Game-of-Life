@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/conweys-game/static/css/main.d81f4fe3.chunk.css",
-    "main.js": "/conweys-game/static/js/main.345daa18.chunk.js",
-    "main.js.map": "/conweys-game/static/js/main.345daa18.chunk.js.map",
-    "runtime-main.js": "/conweys-game/static/js/runtime-main.d6250b01.js",
-    "runtime-main.js.map": "/conweys-game/static/js/runtime-main.d6250b01.js.map",
-    "static/js/2.3636b42c.chunk.js": "/conweys-game/static/js/2.3636b42c.chunk.js",
-    "static/js/2.3636b42c.chunk.js.map": "/conweys-game/static/js/2.3636b42c.chunk.js.map",
-    "index.html": "/conweys-game/index.html",
-    "precache-manifest.a809cdd7436d2a42845cbe6aa6aa7813.js": "/conweys-game/precache-manifest.a809cdd7436d2a42845cbe6aa6aa7813.js",
-    "service-worker.js": "/conweys-game/service-worker.js",
-    "static/css/main.d81f4fe3.chunk.css.map": "/conweys-game/static/css/main.d81f4fe3.chunk.css.map",
-    "static/media/None Blue Ani.svg": "/conweys-game/static/media/None Blue Ani.136fc006.svg"
+    "main.css": "/Conweys-Game-of-Life/static/css/main.d81f4fe3.chunk.css",
+    "main.js": "/Conweys-Game-of-Life/static/js/main.8fdf7490.chunk.js",
+    "main.js.map": "/Conweys-Game-of-Life/static/js/main.8fdf7490.chunk.js.map",
+    "runtime-main.js": "/Conweys-Game-of-Life/static/js/runtime-main.ad6b9d85.js",
+    "runtime-main.js.map": "/Conweys-Game-of-Life/static/js/runtime-main.ad6b9d85.js.map",
+    "static/js/2.3636b42c.chunk.js": "/Conweys-Game-of-Life/static/js/2.3636b42c.chunk.js",
+    "static/js/2.3636b42c.chunk.js.map": "/Conweys-Game-of-Life/static/js/2.3636b42c.chunk.js.map",
+    "index.html": "/Conweys-Game-of-Life/index.html",
+    "precache-manifest.d7ab2d7f3234522dbcfa39ed41eaadb5.js": "/Conweys-Game-of-Life/precache-manifest.d7ab2d7f3234522dbcfa39ed41eaadb5.js",
+    "service-worker.js": "/Conweys-Game-of-Life/service-worker.js",
+    "static/css/main.d81f4fe3.chunk.css.map": "/Conweys-Game-of-Life/static/css/main.d81f4fe3.chunk.css.map",
+    "static/media/None Blue Ani.svg": "/Conweys-Game-of-Life/static/media/None Blue Ani.136fc006.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6250b01.js",
+    "static/js/runtime-main.ad6b9d85.js",
     "static/js/2.3636b42c.chunk.js",
     "static/css/main.d81f4fe3.chunk.css",
-    "static/js/main.345daa18.chunk.js"
+    "static/js/main.8fdf7490.chunk.js"
   ]
 }
